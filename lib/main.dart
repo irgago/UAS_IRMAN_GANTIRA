@@ -80,7 +80,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('List API-IRMAN GANTIRA'),
+          title: const Text('List API - IRMAN GANTIRA'),
         ),
         body: Column(
           mainAxisSize: MainAxisSize.max,
